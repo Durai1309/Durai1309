@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔  I’m looking for help with bootstrap documentation.
 - 💬 Ask me about front-end.
-- 📫 How to reach me: linkedin 
 - 😄 Pronouns: He/His
 - ⚡  Fun fact: Save some love for yourself.
 
