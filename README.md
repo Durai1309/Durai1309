@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡  Fun fact: Save some love for yourself.
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=Durai1309&theme=radical)
