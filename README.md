@@ -1,11 +1,10 @@
  Hey, I'm Durai Raj ❄ 
-<!-- 
 - 🔭 I’m currently working on full stack developer. 
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔  I’m looking for help with Asp Dotnet Core 6 MVC.
 - 💬 Ask me about Asp Dotnet Core 6 MVC.
 - 😄 Pronouns: He/His
-- ⚡  Fun fact: Save some love for yourself. -->
+- ⚡  Fun fact: Save some love for yourself. 
 
 
 # 💻 Tech Stack:
