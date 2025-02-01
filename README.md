@@ -8,7 +8,7 @@ Guided by Agile principles, I'm adept at adapting quickly to changing requiremen
 With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly come to life.
 
 ### Experience:
-Software Developer
+### Software Developer
 
 Proficient in .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, applying SOLID principles to design and deliver innovative, robust, and scalable solutions tailored to project requirements.
 
@@ -22,7 +22,7 @@ Collaborated on the design and implementation of Microservices Architecture, lev
 
 Specialized in developing Web APIs and ASP.NET Core MVC applications, delivering iterative and customer-centric solutions within fast-paced Agile environments.
 
-Associate Software Developer
+### Associate Software Developer
 
 Gained foundational expertise in .NET Core, Web API, ASP.NET Core MVC, Entity Framework, and SQL Server, contributing to the development of scalable and maintainable software solutions.
 
