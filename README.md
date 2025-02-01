@@ -1,9 +1,20 @@
-Hi there! I'm M. Durai Raj, an innovative software developer with 2 years of experience in shaping cutting-edge web solutions. Rooted in the SOLID principles, my code is not just functional but also elegant and scalable.
+About Me
+👋 Hi there! I'm M. Durai Raj, an innovative software developer with 2 years of experience in shaping cutting-edge web solutions. Rooted in the SOLID principles, my code is not just functional but also elegant, scalable, and maintainable.
 
 My toolkit includes .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Core Web API, Vue.js, and SQL Server, empowering me to build tomorrow's solutions today. Over the past 2 years, I've been deeply involved in implementing Microservices and Clean Architecture in my projects, honing my skills in scalable and maintainable system design.
 
-Guided by agile principles, I'm adept at adapting quickly to changing requirements, ensuring the delivery of high-quality software solutions. I excel in steering CI/CD pipelines with Bamboo and Bitbucket, optimizing development journeys for peak efficiency. I thrive on architecting innovative microservices and clean architectures, crafting code that's as clean as it is powerful. With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly shine.
+Guided by Agile principles, I'm adept at adapting quickly to changing requirements, ensuring the delivery of high-quality software solutions. I excel in steering CI/CD pipelines with Bamboo and Bitbucket, optimizing development workflows for peak efficiency. I thrive on architecting innovative microservices and clean architectures, crafting code that's as clean as it is powerful.
 
+With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly come to life.
+
+### Experience: 
+Proficient in .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, applying SOLID principles to craft innovative and robust solutions tailored to project requirements.
+
+Advocated for the adoption of Clean Architecture principles to enhance code maintainability and scalability, fostering a modular and extensible design approach that aligns with Agile methodologies.
+
+Directed CI/CD workflows with Bamboo and Bitbucket, ensuring rapid and reliable software delivery through continuous integration and deployment practices.
+
+Actively practiced Agile methodologies, participating in sprint planning, backlog refinement, and sprint reviews to prioritize tasks and adapt quickly to changing project needs while maintaining a customer-centric focus on client requirements.
 
 ### Skills:
 
