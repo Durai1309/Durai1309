@@ -29,7 +29,7 @@ Assisted in implementing Microservices Architecture, learning and applying Agile
 Collaborated with cross-functional teams to deliver high-quality software, focusing on iterative development and continuous improvement.
 
 
-### Skills👨‍💻:
+### Skills👨‍💻
 
 #### Backend & Database:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -94,7 +94,7 @@ Here are some links to help you stay updated:
   - [Atlassian Bamboo Docs](https://confluence.atlassian.com/bamboo/)
   - [Bitbucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/)
 
-
+---
 <!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false)<br/> -->
 ### GitHub Stats 📊
