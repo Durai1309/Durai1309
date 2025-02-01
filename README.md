@@ -16,8 +16,8 @@ Guided by agile principles, I'm adept at adapting quickly to changing requiremen
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23000000.svg?style=for-the-badge&logoColor=white)
+![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Frontend:
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -48,8 +48,8 @@ Here are some links to help you stay updated:
   - [Entity Framework Docs](https://learn.microsoft.com/en-us/ef/)
   
 - **Clean Architecture**:
-	- [Clean Architecture by Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/)
-	- [Microsoft Guide to Clean 			Architecture](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
+  - [Clean Architecture by Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/)
+  - [Microsoft Guide to Clean Architecture](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
 
 - **Microservices**:
   - [Microservices Architecture Guide](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
