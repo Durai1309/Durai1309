@@ -97,6 +97,8 @@ Here are some links to help you stay updated:
 
 <!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false)<br/> -->
+### GitHub Stats 📊
+
 <p><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false"/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <p><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
