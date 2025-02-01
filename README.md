@@ -96,9 +96,15 @@ Here are some links to help you stay updated:
 
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img style="width: 45%; height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false"/>
-  <img style="width: 45%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%;">
+  <div style="height: 200px; overflow: hidden;">
+    <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false"/>
+  </div>
+  <div style="height: 200px; overflow: hidden;">
+    <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  </div>
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
