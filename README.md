@@ -96,11 +96,8 @@ Here are some links to help you stay updated:
 
 
 
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false"/>
-</p>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
