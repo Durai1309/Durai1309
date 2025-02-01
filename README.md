@@ -1,5 +1,6 @@
-About Me
-👋 Hi there! I'm M. Durai Raj, an innovative software developer with 2 years of experience in shaping cutting-edge web solutions. Rooted in the SOLID principles, my code is not just functional but also elegant, scalable, and maintainable.
+### About Me👋 
+
+Hi there! I'm M. Durai Raj, an innovative software developer with 2 years of experience in shaping cutting-edge web solutions. Rooted in the SOLID principles, my code is not just functional but also elegant, scalable, and maintainable.
 
 My toolkit includes .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Core Web API, Vue.js, and SQL Server, empowering me to build tomorrow's solutions today. Over the past 2 years, I've been deeply involved in implementing Microservices and Clean Architecture in my projects, honing my skills in scalable and maintainable system design.
 
