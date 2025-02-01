@@ -58,7 +58,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 
 ---
 
-### Resources to Update Your Skills:
+### Resources to Update Your Skills👨‍💻:
 Here are some links to help you stay updated:
 
 - **C# and .NET**:
