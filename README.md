@@ -1,35 +1,30 @@
-### About Me👋 
+### About Me 👋
+Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices.
 
-Hi there! I'm M. Durai Raj, an innovative software developer with 2 years of experience in shaping cutting-edge web solutions. Rooted in the SOLID principles, my code is not just functional but also elegant, scalable, and maintainable.
+I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, Entity Framework, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket.
 
-My toolkit includes .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Core Web API, Vue.js, and SQL Server, empowering me to build tomorrow's solutions today. Over the past 2 years, I've been deeply involved in implementing Microservices and Clean Architecture in my projects, honing my skills in scalable and maintainable system design.
+I’m passionate about crafting clean, modular, and extensible code that not only solves problems but also stands the test of time. Let’s build the future of software together!
 
-Guided by Agile principles, I'm adept at adapting quickly to changing requirements, ensuring the delivery of high-quality software solutions. I excel in steering CI/CD pipelines with Bamboo and Bitbucket, optimizing development workflows for peak efficiency. I thrive on architecting innovative microservices and clean architectures, crafting code that's as clean as it is powerful.
-
-With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly come to life.
-
-### Experience:
+### Experience
 ### Software Developer
+Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
 
-Proficient in .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, applying SOLID principles to design and deliver innovative, robust, and scalable solutions tailored to project requirements.
+Championed the adoption of Clean Architecture to improve code maintainability and scalability, aligning with Agile methodologies for iterative and customer-centric development.
 
-Advocated for the adoption of Clean Architecture principles to enhance code maintainability and scalability, fostering a modular and extensible design approach aligned with Agile methodologies.
+Spearheaded CI/CD workflows using Bamboo and Bitbucket, ensuring rapid and reliable software delivery through automated pipelines.
 
-Directed CI/CD workflows using Bamboo and Bitbucket, ensuring rapid and reliable software delivery through continuous integration and deployment practices.
+Collaborated on the design and implementation of Microservices Architecture, enhancing system flexibility, adaptability, and scalability.
 
-Actively participated in Agile ceremonies, including sprint planning, backlog refinement, and sprint reviews, to prioritize tasks, adapt to changing project needs, and maintain a customer-centric focus on client requirements.
+Actively participated in Agile ceremonies (sprint planning, backlog refinement, and sprint reviews) to prioritize tasks, adapt to evolving requirements, and deliver value-driven solutions.
 
-Collaborated on the design and implementation of Microservices Architecture, leveraging Agile principles to ensure system adaptability, flexibility, and scalability.
-
-Specialized in developing Web APIs and ASP.NET Core MVC applications, delivering iterative and customer-centric solutions within fast-paced Agile environments.
+Managed IIS (Internet Information Services) for seamless deployment and optimal performance of web applications.
 
 ### Associate Software Developer
+Gained foundational expertise in .NET Core, ASP.NET Core MVC/Web API, Entity Framework, and SQL Server, contributing to the development of scalable and maintainable software solutions.
 
-Gained foundational expertise in .NET Core, Web API, ASP.NET Core MVC, Entity Framework, and SQL Server, contributing to the development of scalable and maintainable software solutions.
+Supported Agile practices by participating in sprint planning, backlog refinement, and sprint reviews, ensuring alignment with project goals and timely delivery.
 
-Supported Agile practices by actively engaging in sprint planning, backlog refinement, and sprint reviews, ensuring alignment with project objectives and timely delivery of features.
-
-Assisted in the implementation of Microservices Architecture, learning and applying Agile principles to enhance system flexibility and scalability.
+Assisted in implementing Microservices Architecture, learning and applying Agile principles to enhance system flexibility and scalability.
 
 Collaborated with cross-functional teams to deliver high-quality software, focusing on iterative development and continuous improvement.
 
