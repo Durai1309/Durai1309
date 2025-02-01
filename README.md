@@ -7,14 +7,31 @@ Guided by Agile principles, I'm adept at adapting quickly to changing requiremen
 
 With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly come to life.
 
-### Experience: 
-Proficient in .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, applying SOLID principles to craft innovative and robust solutions tailored to project requirements.
+### Experience:
+Software Developer
 
-Advocated for the adoption of Clean Architecture principles to enhance code maintainability and scalability, fostering a modular and extensible design approach that aligns with Agile methodologies.
+Proficient in .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, applying SOLID principles to design and deliver innovative, robust, and scalable solutions tailored to project requirements.
 
-Directed CI/CD workflows with Bamboo and Bitbucket, ensuring rapid and reliable software delivery through continuous integration and deployment practices.
+Advocated for the adoption of Clean Architecture principles to enhance code maintainability and scalability, fostering a modular and extensible design approach aligned with Agile methodologies.
 
-Actively practiced Agile methodologies, participating in sprint planning, backlog refinement, and sprint reviews to prioritize tasks and adapt quickly to changing project needs while maintaining a customer-centric focus on client requirements.
+Directed CI/CD workflows using Bamboo and Bitbucket, ensuring rapid and reliable software delivery through continuous integration and deployment practices.
+
+Actively participated in Agile ceremonies, including sprint planning, backlog refinement, and sprint reviews, to prioritize tasks, adapt to changing project needs, and maintain a customer-centric focus on client requirements.
+
+Collaborated on the design and implementation of Microservices Architecture, leveraging Agile principles to ensure system adaptability, flexibility, and scalability.
+
+Specialized in developing Web APIs and ASP.NET Core MVC applications, delivering iterative and customer-centric solutions within fast-paced Agile environments.
+
+Associate Software Developer
+
+Gained foundational expertise in .NET Core, Web API, ASP.NET Core MVC, Entity Framework, and SQL Server, contributing to the development of scalable and maintainable software solutions.
+
+Supported Agile practices by actively engaging in sprint planning, backlog refinement, and sprint reviews, ensuring alignment with project objectives and timely delivery of features.
+
+Assisted in the implementation of Microservices Architecture, learning and applying Agile principles to enhance system flexibility and scalability.
+
+Collaborated with cross-functional teams to deliver high-quality software, focusing on iterative development and continuous improvement.
+
 
 ### Skills:
 
