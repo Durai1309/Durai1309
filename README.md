@@ -4,6 +4,7 @@ My toolkit includes .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Core 
 
 Guided by agile principles, I'm adept at adapting quickly to changing requirements, ensuring the delivery of high-quality software solutions. I excel in steering CI/CD pipelines with Bamboo and Bitbucket, optimizing development journeys for peak efficiency. I thrive on architecting innovative microservices and clean architectures, crafting code that's as clean as it is powerful. With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly shine.
 
+
 ## Skills:
 
 ### Backend & Database:
@@ -27,7 +28,7 @@ Guided by agile principles, I'm adept at adapting quickly to changing requiremen
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 
-### Tools & DevOps:
+### Web Server & DevOps:
 ![IIS (Internet Information Services)](https://img.shields.io/badge/IIS-%235C2D91.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CI/CD with Bamboo and Bitbucket](https://img.shields.io/badge/CI/CD%20with%20Bamboo%20and%20Bitbucket-%23000000.svg?style=for-the-badge&logo=atlassian&logoColor=white) 
 
@@ -35,6 +36,13 @@ Guided by agile principles, I'm adept at adapting quickly to changing requiremen
 
 ## Resources to Update Your Skills:
 Here are some links to help you stay updated:
+
+### Microservices:
+- [Microservices Architecture Guide](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
+
+### Clean Architecture:
+- [Clean Architecture by Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/)
+- [Microsoft Guide to Clean Architecture](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
 
 ### C# and .NET:
 - [Microsoft Learn: C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -45,9 +53,6 @@ Here are some links to help you stay updated:
 
 ### Entity Framework:
 - [Entity Framework Docs](https://learn.microsoft.com/en-us/ef/)
-
-### Microservices:
-- [Microservices Architecture Guide](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
 
 ### Vue.js:
 - [Vue.js Official Docs](https://vuejs.org/guide/introduction.html)
@@ -61,16 +66,13 @@ Here are some links to help you stay updated:
 ### REST API Best Practices:
 - [REST API Tutorial](https://restfulapi.net/)
 
-### Clean Architecture:
-- [Clean Architecture by Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/)
-- [Microsoft Guide to Clean Architecture](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
-
 ### CI/CD with Bamboo and Bitbucket:
 - [Atlassian Bamboo Docs](https://confluence.atlassian.com/bamboo/)
 - [Bitbucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/)
 
 ### IIS (Internet Information Services):
 - [IIS Official Docs](https://learn.microsoft.com/en-us/iis/)
+
 
 
 <!-- 
