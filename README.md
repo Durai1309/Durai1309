@@ -1,4 +1,4 @@
-### About Me 👋
+### About Me👋
 Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices.
 
 I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, Entity Framework, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket.
@@ -6,7 +6,7 @@ I thrive in Agile environments, where I can adapt quickly to changing requiremen
 I’m passionate about crafting clean, modular, and extensible code that not only solves problems but also stands the test of time. Let’s build the future of software together!
 
 ### Experience👨‍💻
-### Software Developer 🌟
+### Software Developer🌟
 Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, Entity Framework, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
 
 Championed the adoption of Clean Architecture to improve code maintainability and scalability, aligning with Agile methodologies for iterative and customer-centric development.
@@ -19,7 +19,7 @@ Actively participated in Agile ceremonies (sprint planning, backlog refinement, 
 
 Managed IIS (Internet Information Services) for seamless deployment and optimal performance of web applications.
 
-### Associate Software Developer 🌟
+### Associate Software Developer🌟
 Gained foundational expertise in .NET Core, ASP.NET Core MVC/Web API, Entity Framework, and SQL Server, contributing to the development of scalable and maintainable software solutions.
 
 Supported Agile practices by participating in sprint planning, backlog refinement, and sprint reviews, ensuring alignment with project goals and timely delivery.
@@ -29,7 +29,7 @@ Assisted in implementing Microservices Architecture, learning and applying Agile
 Collaborated with cross-functional teams to deliver high-quality software, focusing on iterative development and continuous improvement.
 
 
-### Skills 👨‍💻:
+### Skills👨‍💻:
 
 #### Backend & Database:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -102,9 +102,5 @@ Here are some links to help you stay updated:
 <p><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false"/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <p><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
