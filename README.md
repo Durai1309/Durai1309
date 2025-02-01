@@ -1,10 +1,8 @@
-Hi there! I'm **M. Durai Raj**, a passionate and innovative software developer with **2 years of experience** in crafting cutting-edge web solutions. Rooted in **SOLID principles**, I write code that is not only functional but also elegant, scalable, and maintainable.
+Hi there! I'm M. Durai Raj, an innovative software developer with 2 years of experience in shaping cutting-edge web solutions. Rooted in the SOLID principles, my code is not just functional but also elegant and scalable.
 
-My expertise lies in **.NET Core**, **ASP.NET Core MVC**, **Entity Framework**, **ASP.NET Core Web API**, **Vue.js**, and **SQL Server**, enabling me to build robust and future-proof applications. Over the past 2 years, I've specialized in implementing **Microservices** and **Clean Architecture**, delivering scalable and maintainable system designs.
+My toolkit includes .NET Core, ASP.NET Core MVC, Entity Framework, ASP.NET Core Web API, Vue.js, and SQL Server, empowering me to build tomorrow's solutions today. Over the past 2 years, I've been deeply involved in implementing Microservices and Clean Architecture in my projects, honing my skills in scalable and maintainable system design.
 
-Guided by **Agile principles**, I adapt quickly to changing requirements, ensuring the delivery of high-quality software solutions. I excel in setting up and managing **CI/CD pipelines** with **Bamboo** and **Bitbucket**, streamlining development workflows for maximum efficiency. With hands-on experience in managing **IIS (Internet Information Services)**, I ensure seamless deployment and optimal performance for web applications.
-
-I thrive in **collaborative environments**, where ideas flourish, and innovative solutions come to life. Let's build something amazing together!
+Guided by agile principles, I'm adept at adapting quickly to changing requirements, ensuring the delivery of high-quality software solutions. I excel in steering CI/CD pipelines with Bamboo and Bitbucket, optimizing development journeys for peak efficiency. I thrive on architecting innovative microservices and clean architectures, crafting code that's as clean as it is powerful. With extensive experience managing web servers, including IIS (Internet Information Services), I ensure seamless deployment and robust performance for web applications. Collaborative settings are where I shine the brightest, where ideas flourish and software solutions truly shine.
 
 
 ### Skills:
