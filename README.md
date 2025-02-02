@@ -7,7 +7,7 @@ I’m passionate about crafting clean, modular, and extensible code that not onl
 
 ### Experience👨‍💻
 ### Software Developer🌟
-Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, REST API ,Entity Framework, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
+Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, REST API, Entity Framework, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
 
 Championed the adoption of Clean Architecture to improve code maintainability and scalability, aligning with Agile methodologies for iterative and customer-centric development.
 
