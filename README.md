@@ -100,8 +100,8 @@ Here are some links to help you stay updated:
 ### GitHub Stats 📊
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&layout=compact" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false" />
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&layout=compact" />
+  <img width="400" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
