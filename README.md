@@ -100,30 +100,8 @@ Here are some links to help you stay updated:
 ### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300" alt="Banner" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Durai1309&show_icons=true&theme=city_light&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&layout=compact" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false" />
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durai1309&theme=city_light&hide_border=false&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Durai1309.Durai1309" />
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
