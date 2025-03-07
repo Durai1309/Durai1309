@@ -53,7 +53,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 
 #### Tools & DevOps:
-![IIS (Internet Information Services)](https://img.shields.io/badge/IIS-%235C2D91.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![IIS (Internet Information Services)](https://img.shields.io/badge/IIS%20(Internet%20Information%20Services)-%235C2D91.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CI/CD with Bamboo and Bitbucket](https://img.shields.io/badge/CI/CD%20with%20Bamboo%20and%20Bitbucket-%23000000.svg?style=for-the-badge&logo=atlassian&logoColor=white) 
 
 ---
@@ -63,7 +63,7 @@ Here are some links to help you stay updated:
 
 - **C# and .NET Core**:
   - [Microsoft Learn: C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
- - [.NET Core Documentation](https://learn.microsoft.com/en-us/dotnet/core/)
+  - [.NET Core Documentation](https://learn.microsoft.com/en-us/dotnet/core/)
 
 - **ASP.NET Core**:
   - [ASP.NET Core Official Docs](https://learn.microsoft.com/en-us/aspnet/core/)
