@@ -1,7 +1,7 @@
 ### About Me👋
 Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices Architecture.
 
-I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket and managing IIS (Internet Information Services) for seamless deployment and optimal performance of web applications.
+I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework Core, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket and managing IIS (Internet Information Services) for seamless deployment and optimal performance of web applications.
 
 I’m passionate about crafting clean, modular, and extensible code that not only solves problems but also stands the test of time. Let’s connect and build the future of software together!
 
@@ -33,11 +33,11 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 
 #### Backend & Database:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white) 
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23000000.svg?style=for-the-badge&logoColor=white)
@@ -68,8 +68,8 @@ Here are some links to help you stay updated:
 - **ASP.NET Core**:
   - [ASP.NET Core Official Docs](https://learn.microsoft.com/en-us/aspnet/core/)
 
-- **Entity Framework**:
-  - [Entity Framework Docs](https://learn.microsoft.com/en-us/ef/)
+- **Entity Framework Core**:
+  - [Entity Framework Core Docs](https://learn.microsoft.com/en-us/ef/)
   
 - **Clean Architecture**:
   - [Clean Architecture by Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/)
