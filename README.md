@@ -1,13 +1,13 @@
 ### About Me👋
 Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices.
 
-I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket.
+I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework Core, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket.
 
 I’m passionate about crafting clean, modular, and extensible code that not only solves problems but also stands the test of time. Let’s build the future of software together!
 
 ### Experience👨‍💻
 ### Software Developer🌟
-Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, REST API, Entity Framework, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
+Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, REST API, Entity Framework Core, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
 
 Championed the adoption of Clean Architecture to improve code maintainability and scalability, aligning with Agile methodologies for iterative and customer-centric development.
 
@@ -20,7 +20,7 @@ Actively participated in Agile ceremonies (sprint planning, backlog refinement, 
 Managed IIS (Internet Information Services) for seamless deployment and optimal performance of web applications.
 
 ### Associate Software Developer🌟
-Gained foundational expertise in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework, and SQL Server, contributing to the development of scalable and maintainable software solutions.
+Gained foundational expertise in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework Core, and SQL Server, contributing to the development of scalable and maintainable software solutions.
 
 Supported Agile practices by participating in sprint planning, backlog refinement, and sprint reviews, ensuring alignment with project goals and timely delivery.
 
