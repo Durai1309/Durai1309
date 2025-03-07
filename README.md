@@ -1,5 +1,5 @@
 ### About Me👋
-Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices.
+Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices Architecture.
 
 I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework Core, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket.
 
