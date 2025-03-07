@@ -41,7 +41,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23000000.svg?style=for-the-badge&logoColor=white)
-![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%23000000.svg?style=for-the-badge&logoColor=white)
 
 #### Frontend:
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
