@@ -54,7 +54,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 
 #### Tools & DevOps:
 ![IIS (Internet Information Services)](https://img.shields.io/badge/IIS%20(Internet%20Information%20Services)-%235C2D91.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![CI/CD with Bamboo and Bitbucket](https://img.shields.io/badge/CI/CD%20with%20Bamboo%20and%20Bitbucket-%23000000.svg?style=for-the-badge&logo=atlassian&logoColor=white) 
+![CI/CD with Bamboo and Bitbucket](https://img.shields.io/badge/CI/CD%20with%20Bamboo%20and%20Bitbucket-%23000000.svg?style=for-the-badge&logoColor=white)
 
 ---
 
