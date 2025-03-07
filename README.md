@@ -44,13 +44,13 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%23000000.svg?style=for-the-badge&logoColor=white)
 
 #### Frontend:
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0.svg?style=for-the-badge&logoColor=white)
 
 #### Tools & DevOps:
 ![IIS (Internet Information Services)](https://img.shields.io/badge/IIS%20(Internet%20Information%20Services)-%235C2D91.svg?style=for-the-badge&logo=microsoft&logoColor=white)
