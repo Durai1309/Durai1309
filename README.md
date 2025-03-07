@@ -33,7 +33,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 
 #### Backend & Database:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -75,7 +75,7 @@ Here are some links to help you stay updated:
   - [Clean Architecture by Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/)
   - [Microsoft Guide to Clean Architecture](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
 
-- **Microservices**:
+- **Microservices Architecture**:
   - [Microservices Architecture Guide](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
 
 - **Vue.js**:
