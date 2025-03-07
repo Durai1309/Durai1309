@@ -37,7 +37,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST%20API-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white) 
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23000000.svg?style=for-the-badge&logoColor=white)
@@ -61,9 +61,9 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 ### Resources to Update Your Skills👨‍💻
 Here are some links to help you stay updated:
 
-- **C# and .NET**:
+- **C# and .NET Core**:
   - [Microsoft Learn: C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-  - [.NET Documentation](https://learn.microsoft.com/en-us/dotnet/)
+ - [.NET Core Documentation](https://learn.microsoft.com/en-us/dotnet/core/)
 
 - **ASP.NET Core**:
   - [ASP.NET Core Official Docs](https://learn.microsoft.com/en-us/aspnet/core/)
