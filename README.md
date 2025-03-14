@@ -93,7 +93,6 @@ Here are some links to help you stay updated:
 - **CI/CD with Bamboo and Bitbucket**:
   - [Atlassian Bamboo Docs](https://confluence.atlassian.com/bamboo/)
   - [Bitbucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/)
-
 ---
 <!-- 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Durai1309&theme=city_light&hide_border=false)<br/> -->
