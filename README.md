@@ -91,7 +91,11 @@ Here are some links to help you stay updated:
 
 - **Microservices Architecture**:
   - [Microservices Architecture Guide](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/)
-
+ 
+- **Microfrontend Architecture**:
+  - [Microfrontend Architecture Overview](https://martinfowler.com/articles/micro-frontends.html)
+  - [Microfrontends Guide by ThoughtWorks](https://www.thoughtworks.com/insights/blog/micro-frontends)
+  
 - **Vue.js**:
   - [Vue.js Official Docs](https://vuejs.org/guide/introduction.html)
 
