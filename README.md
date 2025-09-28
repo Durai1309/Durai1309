@@ -8,7 +8,7 @@ Agile by mindset, I adapt quickly to evolving requirements while ensuring high-q
 I thrive in collaborative environments where ideas spark innovation and teamwork fuels great software. Whether building microfrontends or driving architectural improvements, I aim to create solutions that are clean, powerful, and built to last.!
 
 ### Experience👨‍💻
-###Senior Software Developer 🌟
+### Senior Software Developer 🌟
 Led the design and development of scalable enterprise applications using .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Vue.js, and SQL Server.
 
 Championed Microfrontend Architecture to enable modular front-end development and improve cross-team collaboration.
