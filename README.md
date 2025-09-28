@@ -1,9 +1,11 @@
 ### About Me👋
-Hi there! I’m M. Durai Raj, a passionate and innovative software developer with 2 years of experience in designing and delivering cutting-edge web solutions. I specialize in building scalable, maintainable, and elegant systems using modern technologies and best practices like SOLID principles, Clean Architecture, and Microservices Architecture.
+Hi there! I'm M. Durai Raj, a passionate and innovative Senior Software Developer with 2.8 years of experience crafting modern web solutions. I write code that's not only functional but also scalable and maintainable—firmly grounded in SOLID principles.
 
-I thrive in Agile environments, where I can adapt quickly to changing requirements and deliver high-quality software solutions. My expertise lies in .NET Core, ASP.NET Core MVC/Web API, REST API, Entity Framework Core, Vue.js, and SQL Server, and I have hands-on experience in CI/CD pipelines using Bamboo and Bitbucket and managing IIS (Internet Information Services) for seamless deployment and optimal performance of web applications.
+My core tech stack includes .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Vue.js, and SQL Server. I specialize in Clean Architecture, Microservices, and Microfrontend Architecture—delivering modular, maintainable systems on both the back end and front end.
 
-I’m passionate about crafting clean, modular, and extensible code that not only solves problems but also stands the test of time. Let’s connect and build the future of software together!
+Agile by mindset, I adapt quickly to evolving requirements while ensuring high-quality delivery. I’ve led CI/CD automation using Bamboo and Bitbucket, streamlining release cycles and boosting development efficiency. I also bring hands-on expertise in managing IIS for seamless deployments and high-performance web hosting.
+
+I thrive in collaborative environments where ideas spark innovation and teamwork fuels great software. Whether building microfrontends or driving architectural improvements, I aim to create solutions that are clean, powerful, and built to last.!
 
 ### Experience👨‍💻
 ### Software Developer🌟
