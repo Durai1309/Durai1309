@@ -64,7 +64,7 @@ Collaborated with cross-functional teams to deliver high-quality software, focus
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%231867C0.svg?style=for-the-badge&logoColor=white)
-![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend-Architecture-4FC08D?style=for-the-badge&logoColor=white)
+![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend-%25234285F4.svg?style=for-the-badge&logoColor=white)
 
 #### Tools & DevOps:
 ![IIS (Internet Information Services)](https://img.shields.io/badge/IIS%20(Internet%20Information%20Services)-%235C2D91.svg?style=for-the-badge&logo=microsoft&logoColor=white)
