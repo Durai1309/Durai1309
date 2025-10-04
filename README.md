@@ -1,5 +1,5 @@
 ### About Me👋
-Hi there! I'm M. Durai Raj, a passionate and innovative Senior Software Developer with 2.8 years of experience crafting modern web solutions. I write code that's not only functional but also scalable and maintainable—firmly grounded in SOLID principles.
+Hi there! I'm M. Durai Raj, a passionate and innovative .NET Full Stack Developer and Senior Software Developer with 2.5 years of experience crafting modern web solutions. I write code that's not only functional but also scalable and maintainable—firmly grounded in SOLID principles.
 
 My core tech stack includes .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Vue.js, and SQL Server. I specialize in Clean Architecture, Microservices, and Microfrontend Architecture—delivering modular, maintainable systems on both the back end and front end.
 
