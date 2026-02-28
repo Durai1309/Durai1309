@@ -1,23 +1,31 @@
-### About Me👋
-Hi there! I'm M. Durai Raj, a passionate and innovative .NET Full Stack Developer and Senior Software Developer with 2.5 years of experience crafting modern web solutions. I write code that's not only functional but also scalable and maintainable—firmly grounded in SOLID principles.
+### About Me 👋
 
-My core tech stack includes .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Vue.js, and SQL Server. I specialize in Clean Architecture, Microservices, and Microfrontend Architecture—delivering modular, maintainable systems on both the back end and front end.
+Hi there! I'm M. Durai Raj, a passionate and innovative .NET Full Stack Developer and Senior Software Developer with 2.5+ years of experience crafting modern, scalable web solutions. I write code that’s not only functional but also maintainable—firmly grounded in SOLID principles.
 
-Agile by mindset, I adapt quickly to evolving requirements while ensuring high-quality delivery. I’ve led CI/CD automation using Bamboo and Bitbucket, streamlining release cycles and boosting development efficiency. I also bring hands-on expertise in managing IIS for seamless deployments and high-performance web hosting.
+My core tech stack includes .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Angular 18, Vue.js 3, and SQL Server. I specialize in Clean Architecture, Microservices, and Microfrontend Architecture, delivering modular and scalable systems across both backend and frontend.
 
-I thrive in collaborative environments where ideas spark innovation and teamwork fuels great software. Whether building microfrontends or driving architectural improvements, I aim to create solutions that are clean, powerful, and built to last.!
+I have hands-on experience building dynamic user interfaces using Angular 18 and Vue 3, creating responsive, high-performance applications with reusable components and modern state management practices.
 
-### Experience👨‍💻
-### Senior Software Developer🌟
-Led the design and development of scalable enterprise applications using .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Vue.js, and SQL Server.
+Agile by mindset, I adapt quickly to evolving requirements while ensuring high-quality delivery. I’ve led CI/CD automation using Bamboo and Bitbucket, streamlining release cycles and boosting development efficiency. I also bring strong expertise in managing IIS deployments for reliable and high-performance hosting.
 
-Championed Microfrontend Architecture to enable modular front-end development and improve cross-team collaboration.
+I thrive in collaborative environments where ideas spark innovation and teamwork drives great software. Whether building microfrontends or improving architecture, I focus on creating solutions that are clean, powerful, and built to last.
 
-Enforced SOLID principles and Clean Architecture to ensure maintainable, testable, and robust codebases.
+### Experience 👨‍💻
+Senior Software Developer 🌟
 
-Integrated CI/CD pipelines using Bamboo and Bitbucket to streamline deployments and ensure reliable software delivery.
+Led the design and development of scalable enterprise applications using .NET Core, ASP.NET Core MVC, Web API, Entity Framework Core, Angular 18, Vue.js 3, and SQL Server
 
-Actively participated in Agile ceremonies—sprint planning, backlog grooming, and reviews—to align development with evolving business goals.
+Built responsive and dynamic front-end applications using Angular 18 and Vue 3, focusing on component-based architecture and performance optimization
+
+Championed Microfrontend Architecture to enable modular front-end development and improve cross-team collaboration
+
+Enforced SOLID principles and Clean Architecture to ensure maintainable, testable, and robust codebases
+
+Integrated CI/CD pipelines using Bamboo and Bitbucket to streamline deployments and ensure reliable software delivery
+
+Managed application deployments and hosting using IIS, ensuring high availability and performance
+
+Actively participated in Agile ceremonies—sprint planning, backlog grooming, and sprint reviews—to align development with evolving business goals
 
 ### Software Developer🌟
 Designed and developed scalable web applications using .NET Core, ASP.NET Core MVC, Web API, REST API, Entity Framework Core, Vue.js, and SQL Server, adhering to SOLID principles for robust and maintainable code.
